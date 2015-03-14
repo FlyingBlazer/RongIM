@@ -1,6 +1,13 @@
 # RongIM
 融云SDK -- NodeJS
 
+## Features
+
+  * 支持错误处理
+  * 支持自定义消息类型
+  * 覆盖融云提供的所有API
+  * 简单易用
+
 ## Usage
 
 初始化SDK，只需要在第一次引用时执行init方法。
