@@ -1,0 +1,29 @@
+{
+  "name": "RongIM",
+  "version": "0.0.1",
+  "description": "Rong Cloud Sever API",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/buaayz/RongIM"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "server",
+    "rongcloud"
+  ],
+  "author": {
+    "name": "Yu Zhan",
+    "email": "yuzhan1994@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/buaayz/RongIM/issues"
+  },
+  "homepage": "https://github.com/buaayz/RongIM",
+  "readme": "ERROR: No README data found!",
+  "dependencies": {
+    "request": "^2.53.0"
+  }
+}
