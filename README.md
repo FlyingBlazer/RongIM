@@ -1,3 +1,6 @@
+[![NPM version][npm-img]][npm-url]
+[![License][license-img]][license-url]
+
 # RongIM
 融云SDK -- NodeJS
 
@@ -27,3 +30,8 @@ RongIM.init('Your App Key', 'Your App Secret');
 ## License
 
   [MIT](LICENSE)
+
+[npm-img]: https://img.shields.io/npm/v/rongim.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/rongim
+[license-img]: https://img.shields.io/badge/license-MIT-green.svg?style=flat-square
+[license-url]: http://opensource.org/licenses/MIT
